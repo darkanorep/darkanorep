@@ -10,7 +10,8 @@ A dedicated backend developer from the Philippines, currently expanding expertis
   </a>
 <a href="https://github.com/darkanorep">
   <img alt="views" title="Profile Views" 
-       src="https://img.shields.io/badge/Profile%20Views-0-8A2BE2?style=for-the-badge&logo=eye&logoColor=white&labelColor=6A0DAD"/>
+       src="https://komarev.com/ghpvc/?username=darkanorep&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+
 </a>
 
 </p>
