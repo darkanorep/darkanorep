@@ -8,9 +8,11 @@ A dedicated backend developer from the Philippines, currently expanding expertis
   <a href="https://github.com/darkanorep?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/darkanorep?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://github.com/darkanorep">
-    <img alt="views" title="Profile Views" src="https://img.shields.io/badge/Profile%20Views-56-8A2BE2?style=for-the-badge&logo=eye&logoColor=white&labelColor=6A0DAD"/>
-  </a>
+<a href="https://github.com/darkanorep">
+  <img alt="views" title="Profile Views" 
+       src="https://img.shields.io/badge/Profile%20Views-0-8A2BE2?style=for-the-badge&logo=eye&logoColor=white&labelColor=6A0DAD"/>
+</a>
+
 </p>
 
 
