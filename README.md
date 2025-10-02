@@ -51,7 +51,7 @@ A dedicated backend developer from the Philippines, currently expanding expertis
 <a href="https://instagram.com/darkanorep">
   <img align="left" alt="Instagram" width="30px" style="padding-right:10px;" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-  <span>darkanorep</span>
+  <span>iscariot_o99</span>
 </a>
 
 #
