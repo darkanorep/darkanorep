@@ -61,4 +61,3 @@ A dedicated backend developer from the Philippines, currently expanding expertis
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkanorep&theme=tokyo-night&hide_border=true"/>
 </div>
-#
