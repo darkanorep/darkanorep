@@ -38,7 +38,6 @@ A dedicated backend developer from the Philippines, currently expanding expertis
           
 <br />
 
-#
 ---
 
 ### 📩 Contacts
