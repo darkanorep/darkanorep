@@ -55,7 +55,6 @@ A dedicated backend developer from the Philippines, currently expanding expertis
   <span>jrmprn__</span>
 </a>
 
-#
 
 ---
 ### ✨ Stats
